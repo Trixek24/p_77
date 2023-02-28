@@ -1,0 +1,12 @@
+body{
+background-color: blue;
+text-align: center;
+}
+hr{
+    width: 100%;
+    background-color: black;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
+}
